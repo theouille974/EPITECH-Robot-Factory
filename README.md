@@ -1,8 +1,6 @@
 # -EPITECH---Robot-Factory
 { EPITECH } - B-CPE-200-Robot-Factory : 93.7 %
 
-Objectifs :
-
 # Tournoi Corewar
 
 Le tournoi Corewar est un jeu dans lequel plusieurs programmes appelés Champions se battent pour rester les derniers en vie. Corewar est en fait une simulation informatique dans laquelle les processeurs partagent la mémoire pour fonctionner.
