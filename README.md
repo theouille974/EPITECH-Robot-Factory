@@ -9,7 +9,7 @@ Le tournoi Corewar est un jeu dans lequel plusieurs programmes appelés Champion
 
 Le projet est basé sur une machine virtuelle dans laquelle les champions se battent pour la mémoire par tous les moyens possibles afin de gagner. Le dernier champion capable de signaler qu'il est en vie remporte la partie. En d'autres termes, le dernier champion à exécuter l'instruction `live` est déclaré vainqueur.
 
-En d'autres termes, le projet Usine de Robots testera votre capacité à transformer des plans de robots, des fichiers écrits en assembleur, en robots prêts pour le tournoi, des fichiers écrits en bytecode.
+En d'autres termes, le projet Robot Factory testera votre capacité à transformer des plans de robots, des fichiers écrits en assembleur, en robots prêts pour le tournoi, des fichiers écrits en bytecode.
 
 |       Test       | Pourcentage | Nombre de Tests |
 |:----------------:|:-----------:|:---------------:|
